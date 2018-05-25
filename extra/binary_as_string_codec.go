@@ -1,7 +1,7 @@
 package extra
 
 import (
-	"github.com/json-iterator/go"
+	"github.com/shdunning/go"
 	"github.com/modern-go/reflect2"
 	"unicode/utf8"
 	"unsafe"
