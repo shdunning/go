@@ -10,7 +10,6 @@ import (
 
 	jsoniter "github.com/shdunning/go"
 	"github.com/modern-go/reflect2"
-	"json_iterator"
 )
 
 const maxUint = ^uint(0)
